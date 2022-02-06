@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-hello world, its sunny day
-=======
 hello world, wish you a happy day
->>>>>>> bab6f318dfa26bf97c2e267d128bc1499408b47a
 
 
 
